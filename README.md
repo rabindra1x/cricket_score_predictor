@@ -72,8 +72,9 @@ A user-friendly interface was built using **Flask**, allowing users to:
 - Submit inputs and receive the predicted final score
 
 To run the Flask app:
-```bash
 python app.py
+
+
 
 # Screenshot predicted score
 
@@ -81,4 +82,8 @@ python app.py
 
 
 Made with  ❤️ by [Rabindra kumar](https://github.com/rabindra1x)
+
+
+
+
 
